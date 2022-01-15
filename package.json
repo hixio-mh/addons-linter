@@ -118,7 +118,7 @@
     "prettier": "2.0.5",
     "pretty-quick": "2.0.2",
     "raw-loader": "4.0.1",
-    "shelljs": "0.8.4",
+    "shelljs": "0.8.5",
     "sinon": "9.0.3",
     "tar": "6.0.5",
     "tar-fs": "2.1.0",
